@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7B762D931D75749E00CE9918 /* fanhui@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7B762D921D75749E00CE9918 /* fanhui@2x.png */; };
+		7B770C061E1B4F1600404180 /* 效果.png in Resources */ = {isa = PBXBuildFile; fileRef = 7B770C051E1B4F1600404180 /* 效果.png */; };
 		7B7756791D6FD48100BBA99D /* ConnectViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B7756781D6FD48100BBA99D /* ConnectViewController.m */; };
 		7B77567C1D6FE06300BBA99D /* 未选中.png in Resources */ = {isa = PBXBuildFile; fileRef = 7B77567A1D6FE06300BBA99D /* 未选中.png */; };
 		7B77567D1D6FE06300BBA99D /* 选中.png in Resources */ = {isa = PBXBuildFile; fileRef = 7B77567B1D6FE06300BBA99D /* 选中.png */; };
@@ -42,6 +43,7 @@
 
 /* Begin PBXFileReference section */
 		7B762D921D75749E00CE9918 /* fanhui@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fanhui@2x.png"; sourceTree = "<group>"; };
+		7B770C051E1B4F1600404180 /* 效果.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "效果.png"; sourceTree = "<group>"; };
 		7B7756771D6FD48100BBA99D /* ConnectViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ConnectViewController.h; sourceTree = "<group>"; };
 		7B7756781D6FD48100BBA99D /* ConnectViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ConnectViewController.m; sourceTree = "<group>"; };
 		7B77567A1D6FE06300BBA99D /* 未选中.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "未选中.png"; sourceTree = "<group>"; };
@@ -127,6 +129,7 @@
 				7B77567A1D6FE06300BBA99D /* 未选中.png */,
 				7B77567B1D6FE06300BBA99D /* 选中.png */,
 				7B762D921D75749E00CE9918 /* fanhui@2x.png */,
+				7B770C051E1B4F1600404180 /* 效果.png */,
 				7BFC5A711D4B00D000B95E8C /* Assets.xcassets */,
 				7BFC5A731D4B00D000B95E8C /* LaunchScreen.storyboard */,
 				7BFC5A761D4B00D100B95E8C /* Info.plist */,
@@ -277,6 +280,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7B770C061E1B4F1600404180 /* 效果.png in Resources */,
 				7B77567D1D6FE06300BBA99D /* 选中.png in Resources */,
 				7BFC5A751D4B00D000B95E8C /* LaunchScreen.storyboard in Resources */,
 				7BFC5A721D4B00D000B95E8C /* Assets.xcassets in Resources */,
